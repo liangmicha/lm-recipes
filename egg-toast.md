@@ -27,9 +27,9 @@ Total Time: 10 minutes
 - onions (for additional taste)
 
 ## Steps
-[ ] Heat oil in pan
+[] Heat oil in pan
 
-[ ] Add salt to oil
+[] Add salt to oil
 
 [ ] Put toast in toaster
 
