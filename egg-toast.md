@@ -27,17 +27,17 @@ Total Time: 10 minutes
 - onions (for additional taste)
 
 ## Steps
-[] Heat oil in pan
+- [] Heat oil in pan
 
-[] Add salt to oil
+- [] Add salt to oil
 
-[ ] Put toast in toaster
+- [ ] Put toast in toaster
 
-[ ] Once oil is hot, put in no egg ingredients, stir it around. 
+- [ ] Once oil is hot, put in no egg ingredients, stir it around. 
 
-[ ] Crack the eggs in a bowl if scrabmled, otherwise put egg in pan.
+-[ ] Crack the eggs in a bowl if scrabmled, otherwise put egg in pan.
 
-[ ] Prepare a plate  
+-[ ] Prepare a plate  
 
 [ ] Put toast on plate
 
